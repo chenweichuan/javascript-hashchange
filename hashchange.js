@@ -5,7 +5,7 @@
  * 
  * 此文件必须放置在<head> 里
  */
-(function(win){
+;(function(win){
 
 var doc = win.document,
     docMode = doc && doc['documentMode'],
